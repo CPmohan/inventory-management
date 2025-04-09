@@ -56,3 +56,10 @@
     "full-stack"
   ]
 }
+{
+  "scripts": {
+    "build": "tsc",
+    "postinstall": "npm install"
+  }
+}
+
